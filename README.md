@@ -9,7 +9,7 @@
 ## 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/samitha-don/"><img align="left" src="https://github.com/sam-don/sam-don/blob/d769e0e150f45629cf3da0d20cf9c2d57a49849f/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
 
-<a href="https://www.instagram.com/samdon.dev/"><img align="left" src="https://github.com/sam-don/sam-don/blob/d769e0e150f45629cf3da0d20cf9c2d57a49849f/images/instagram.svg" alt="icon | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/sambreaksstuff/"><img align="left" src="https://github.com/sam-don/sam-don/blob/d769e0e150f45629cf3da0d20cf9c2d57a49849f/images/instagram.svg" alt="icon | Instagram" width="21px"/></a>
 
 <!---
 sam-don/sam-don is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
